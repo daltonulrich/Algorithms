@@ -131,4 +131,3 @@ hashTable.get("Tim Lee")
 
 hashTable["Kevin Flynn"] = "The grid"
 hashTable["Kevin Flynn"]
-Footer
