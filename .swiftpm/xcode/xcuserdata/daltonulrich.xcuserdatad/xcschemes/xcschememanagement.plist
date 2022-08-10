@@ -7,7 +7,7 @@
 		<key>Algorithms.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>19</integer>
+			<integer>0</integer>
 		</dict>
 		<key>Arrays (Playground) 1.xcscheme</key>
 		<dict>
@@ -28,7 +28,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>4</integer>
+			<integer>11</integer>
 		</dict>
 		<key>BigO Reduced (Playground) 1.xcscheme</key>
 		<dict>
@@ -49,7 +49,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>12</integer>
+			<integer>21</integer>
 		</dict>
 		<key>BigONotation (Playground) 1.xcscheme</key>
 		<dict>
@@ -70,7 +70,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>20</integer>
 		</dict>
 		<key>Binary Search Tree (Playground) 1.xcscheme</key>
 		<dict>
@@ -91,7 +91,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>15</integer>
+			<integer>8</integer>
 		</dict>
 		<key>Bubble Sort (Playground) 1.xcscheme</key>
 		<dict>
@@ -114,6 +114,27 @@
 			<key>orderHint</key>
 			<integer>23</integer>
 		</dict>
+		<key>Compressor (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>30</integer>
+		</dict>
+		<key>Compressor (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>31</integer>
+		</dict>
+		<key>Compressor (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>29</integer>
+		</dict>
 		<key>Cycle Rotation (Playground) 1.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -133,7 +154,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>17</integer>
+			<integer>16</integer>
 		</dict>
 		<key>Fibanocci (Playground) 1.xcscheme</key>
 		<dict>
@@ -154,7 +175,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>20</integer>
+			<integer>17</integer>
 		</dict>
 		<key>Graphs (Playground) 1.xcscheme</key>
 		<dict>
@@ -175,7 +196,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>26</integer>
+			<integer>24</integer>
 		</dict>
 		<key>Hash Table (Playground) 1.xcscheme</key>
 		<dict>
@@ -196,7 +217,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>11</integer>
+			<integer>2</integer>
 		</dict>
 		<key>Implement strStr() (Playground) 1.xcscheme</key>
 		<dict>
@@ -217,7 +238,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>8</integer>
+			<integer>4</integer>
 		</dict>
 		<key>Length of Last Word (Playground) 1.xcscheme</key>
 		<dict>
@@ -238,7 +259,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>1</integer>
+			<integer>10</integer>
 		</dict>
 		<key>Linked List (Playground) 1.xcscheme</key>
 		<dict>
@@ -259,7 +280,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>13</integer>
+			<integer>1</integer>
 		</dict>
 		<key>Longest Common Prefix (Playground) 1.xcscheme</key>
 		<dict>
@@ -280,7 +301,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>3</integer>
+			<integer>19</integer>
 		</dict>
 		<key>Merge Two Sorted Lists (Playground) 1.xcscheme</key>
 		<dict>
@@ -301,7 +322,49 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>2</integer>
+			<integer>18</integer>
+		</dict>
+		<key>One Away (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>39</integer>
+		</dict>
+		<key>One Away (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>40</integer>
+		</dict>
+		<key>One Away (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>38</integer>
+		</dict>
+		<key>Oneaway (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>27</integer>
+		</dict>
+		<key>Oneaway (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>28</integer>
+		</dict>
+		<key>Oneaway (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>26</integer>
 		</dict>
 		<key>Palindrome Number (Playground) 1.xcscheme</key>
 		<dict>
@@ -324,6 +387,27 @@
 			<key>orderHint</key>
 			<integer>6</integer>
 		</dict>
+		<key>Permutations (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>33</integer>
+		</dict>
+		<key>Permutations (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>34</integer>
+		</dict>
+		<key>Permutations (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>15</integer>
+		</dict>
 		<key>Remove Duplicates from Sorted Array (Playground) 1.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -343,7 +427,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>14</integer>
+			<integer>22</integer>
 		</dict>
 		<key>Remove Element (Playground) 1.xcscheme</key>
 		<dict>
@@ -364,7 +448,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>5</integer>
+			<integer>13</integer>
 		</dict>
 		<key>Reverse a String (Playground) 1.xcscheme</key>
 		<dict>
@@ -385,7 +469,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>18</integer>
+			<integer>7</integer>
 		</dict>
 		<key>Search Insert Postion (Playground) 1.xcscheme</key>
 		<dict>
@@ -406,7 +490,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>16</integer>
+			<integer>25</integer>
 		</dict>
 		<key>Stack Queues (Playground) 1.xcscheme</key>
 		<dict>
@@ -427,7 +511,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>9</integer>
+			<integer>5</integer>
 		</dict>
 		<key>Two Sum (Playground) 1.xcscheme</key>
 		<dict>
@@ -448,7 +532,49 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>7</integer>
+			<integer>14</integer>
+		</dict>
+		<key>URLify (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>36</integer>
+		</dict>
+		<key>URLify (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>37</integer>
+		</dict>
+		<key>URLify (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>9</integer>
+		</dict>
+		<key>Unique Characters (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>30</integer>
+		</dict>
+		<key>Unique Characters (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>31</integer>
+		</dict>
+		<key>Unique Characters (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>3</integer>
 		</dict>
 		<key>Valid Parentheses (Playground) 1.xcscheme</key>
 		<dict>
@@ -469,7 +595,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>10</integer>
+			<integer>12</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
